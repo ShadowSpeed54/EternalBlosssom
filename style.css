@@ -44,12 +44,16 @@ header {
     text-align: center;
 }
 
-header img {
+img {
     display: block;
     margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+header img {
     max-width: 20rem;
     border-radius: 10%;
-    height: auto;
 }
 
 aside a {
