@@ -4,11 +4,9 @@ Ash Blossom-Shikagita, a 22 year old half-cat girl. Ash was born in Neo
 Domino. Ash is bisexual. Lily, her mother, taught Ash how to use magic
 as she did with her older sister, Rose. Cedar, her father, taught Ash
 how to use her scythe as she did with her older sister, Rose. Ash duels,
-using an Aroma
-
-Rikka Rose deck. In VRAINS, she goes by the name of Virtue. Ash was born
-on the 1st of June. Ash FC is Miyako/Micchon Shikimori from Shikimori\'s
-Not Just a Cutie. Virtue FC is Adult Neptune from Hyperdimension
+using an Aroma Rikka Rose deck. In VRAINS, she goes by the name of Virtue. Ash
+was born on the 1st of June. Ash FC is Miyako/Micchon Shikimori from
+Shikimori\'s Not Just a Cutie. Virtue FC is Adult Neptune from Hyperdimension
 Neptunia.
 
 Rose Blossom, a 23 year old half-cat girl. Rose was born in Heartland,

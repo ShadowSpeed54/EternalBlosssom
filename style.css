@@ -70,3 +70,7 @@ aside a {
     font-family: serif;
     font-weight: bold;
 }
+
+.more-info {
+    text-decoration: underline dotted;
+}
