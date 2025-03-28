@@ -1,3 +1,5 @@
+# Character bios
+
 **[Character information]{.underline}**
 
 Ash Blossom-Shikagita, a 22 year old half-cat girl. Ash was born in Neo
