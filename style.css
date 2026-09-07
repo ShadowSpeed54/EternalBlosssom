@@ -31,13 +31,24 @@ header,
 section,
 aside,
 footer {
-    color: #222;
+    color: #3a103a;
     background-color: #ffeaff;
     padding: 1rem 2rem;
     margin-top: 4rem;
     border-top: 2px solid #fff1ff;
     border-bottom: 2px solid #fff1ff;
     border-radius: 0.5rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    header,
+    section,
+    aside,
+    footer {
+        color: #ffeaff;
+        background-color: #342233;
+        border-color: #2b1c2a;
+    }
 }
 
 header {
@@ -58,6 +69,7 @@ header img {
 
 aside a {
     display: block;
+    text-decoration: none;
 }
 
 #separator {
